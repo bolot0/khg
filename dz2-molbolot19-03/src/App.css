@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list {
+  color: rgb(199, 9, 9);
+  background-color: rgb(13, 0, 255);
+}
+.img {
+  width: 100px;
+  height: 100px;
+}
